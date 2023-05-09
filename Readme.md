@@ -4,7 +4,7 @@
 
  ## **Day 1**
 
-##What is HTML?
+## What is HTML?
 
 * HTML stands for Hyper Text Markup Language
 * HTML is the standard markup language for creating Web pages
@@ -13,7 +13,7 @@
 * HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 * HTML elements tell the browser how to display the content
 
-###A simple HTML document
+### A simple HTML document
 
 ```
 <!DOCTYPE html>
