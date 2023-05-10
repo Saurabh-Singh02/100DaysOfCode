@@ -67,7 +67,7 @@
 >`<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">`
 ## The src Attribute
 <img src="xyz.jpg" alt="xyz.com" width="104" height="142">
-## The src Attribute
+
 The `<img>` tag is used to embed an image in an HTML page. The `src` attribute specifies the path to the image to be displayed:
 
 >`<img src="img_girl.jpg">`
