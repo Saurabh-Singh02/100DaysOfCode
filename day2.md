@@ -54,8 +54,6 @@
 * The style attribute is used to add styles to an element, such as color, font, size, and more.
 
 >`<p style="color:red;">This is a red paragraph.</p>`
-Example
-* <p style="color:red;">This is a red paragraph.</p>
 ## HTML Links
 * HTML links are defined with the `<a>` tag:
 >`<a href="">`link`</a>`
