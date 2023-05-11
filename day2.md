@@ -40,12 +40,6 @@
 * HTML headings are defined with the `<h1>` to `<h6>` tags.
 
 * `<h1>` defines the most important heading. `<h6>` defines the least important heading: 
-# heading 1
-## heading 2 
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
 >`<h1>`heading`</h1>`
 ## HTML Paragraphs
 * HTML paragraphs are defined with the `<p>` tag:
