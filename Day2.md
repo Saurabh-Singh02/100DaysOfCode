@@ -33,8 +33,8 @@
 * The <!DOCTYPE> declaration for HTML5 is:
 > `<!DOCTYPE html>`
 ## HTML title tag
-* `<tittle>` tag define the title of your webpage.
-* This title appers inside the tab of the browser when you open your webpage.
+* `<title>` tag define the title of your webpage.
+* This title appears inside the tab of the browser when you open your webpage.
 >`<title> my first website</title>`
 ## HTML Headings
 * HTML headings are defined with the `<h1>` to `<h6>` tags.
