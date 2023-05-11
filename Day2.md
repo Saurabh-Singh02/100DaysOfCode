@@ -1,5 +1,5 @@
-## How to use HTML?
-* Open notepad or any text editor (like atom, sublime, vscode, etc.).
+## How to use HTML? 
+* Open notepad or any text editor (like atom, sublime, vscode, etc)
 * Write your HTML code.
 * Save the HTML page.
     * Name the file "index.html" and set the encoding to UTF-8 (which is the preferred encoding for HTML files).
@@ -7,7 +7,7 @@
 * Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose "Open with"). 
 ## HTML Document
 * HTML is not case sensitive.
-* The HTML standard does not require lowercase attribute names.
+* The HTML standard doesn't require lowercase attribute names.
 
 * The title attribute (and all other attributes) can be written with uppercase or lowercase like title or TITLE.
 
@@ -27,7 +27,7 @@
 </html>
 ```
 ## The <!DOCTYPE> Declaration
-* The `<!DOCTYPE>` declaration represents the document type, and helps browsers to display web pages correctly.
+* The `<!DOCTYPE>` declaration represents the document type (for HTML5), and helps browsers to display web pages correctly.
 * It must only appear once, at the top of the page (before any HTML tags).
 * The <!DOCTYPE> declaration is not case sensitive.
 * The <!DOCTYPE> declaration for HTML5 is:
