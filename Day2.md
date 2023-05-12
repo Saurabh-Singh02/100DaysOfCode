@@ -50,7 +50,7 @@
 >`<p style="color:red;">This is a red paragraph.</p>`
 ## HTML Links
 * HTML links are defined with the `<a>` tag:
->`<a href="">`link`</a>`
+>`<a href="">link</a>`
 * The link's destination is specified in the `href` attribute. 
 
 * Attributes are used to provide additional information about HTML elements.
