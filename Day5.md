@@ -8,7 +8,7 @@
 
 * A favicon image is displayed to the left of the page title in the browser tab, like this:
 
-<img src="/images/favicon.PNG" alt="favicon example">
+![Alt text](images/favicon.PNG)
 
 * To add a favicon to your website, either save your favicon image to the root directory of your webserver, or create a folder in the root directory called images, and save your favicon image in this folder. A common name for a favicon image is "favicon.ico".
 
@@ -141,7 +141,8 @@ For a complete list of all available HTML tags, visit our HTML Tag Reference.
 
 ## HTML Table Colspan & Rowspan
 * HTML tables can have cells that span over multiple rows and/or columns.
-<img src="/images/colspan & rowspan.PNG" alt="colspan and rowspan example">
+
+![Alt text](images/colspan%20&%20rowspan.PNG)
 
 ## HTML Table - Colspan
 * To make a cell span over multiple columns, use the colspan attribute:
