@@ -273,4 +273,4 @@ aside {
 ```
 
 #### Why Semantic Elements?
-* According to the W3C: "A semantic Web allows data to be shared and reused across applications, enterprises, and communities."
+* The semantic HTML tags help the search engines and other user devices to determine the importance and context of web pages. The pages made with semantic elements are much easier to read. It has greater accessibility. It offers a better user experience.
