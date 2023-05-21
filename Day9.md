@@ -297,6 +297,7 @@ The cat was playing in the garden.
   <input type="color" id="favcolor" name="favcolor">
 </form>
 ```
+
 ### Input Type `Date`
 * The `<input type="date">` is used for input fields that should contain a date.
 
